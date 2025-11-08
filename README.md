@@ -1,7 +1,7 @@
-# Utilising ruby and services to create backend services
-# GoogleBooksService encapsulates external API logic. BookRatingFetcherJob encapsulates background processing logic.
+# Utilising ruby to create backend service
+### GoogleBooksService encapsulates external API logic. BookRatingFetcherJob encapsulates background processing logic.
 
-Showcasing Backend Development
+#Showcasing Backend Development
 
 * RESTful API Design: Clear endpoints for CRUD operations on resources.
 * Database Management: Models, migrations, associations with PostgreSQL.
